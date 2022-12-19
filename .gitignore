@@ -5,3 +5,6 @@ _build
 docs/.vuepress/dist
 .now
 .vercel
+
+# Local Netlify folder
+.netlify
