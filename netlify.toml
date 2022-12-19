@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "make docker-make && make docker-build"
+  command = "make html"
   functions = "netlify/functions"
   publish = "_build/html"
 
