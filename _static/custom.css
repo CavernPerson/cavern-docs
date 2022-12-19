@@ -360,3 +360,11 @@ main.bd-content #print-main-content a:visited {
     font-size: 0.875rem !important;
     font-weight: 500;
 }
+
+/* Correct the */
+@media (max-width: 768px) {
+	#site-navigation {
+	  margin-left: -275px !important;
+	}
+}
+
