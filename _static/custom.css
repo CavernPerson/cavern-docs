@@ -363,8 +363,7 @@ main.bd-content #print-main-content a:visited {
 
 /* Correct the */
 @media (max-width: 768px) {
-	#site-navigation {
+	input#__navigation:not(:checked) ~ .container-xl #site-navigation {
 	  margin-left: -275px !important;
 	}
 }
-
