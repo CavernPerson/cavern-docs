@@ -37,7 +37,7 @@ Once activated, bids are arranged into an orderbook-style queue. Bids with lower
 
 The activation period exists to prevent bots from front running. Without it, the system can be gamed during short-term market volatilities - bidders may retract their bids and instantly resubmit at a lower premium, causing bids to be retracted when they are needed the most. The activation period forces bidders to thoughtfully select premiums fit for mid-to-long term market fluctuations, as their premiums cannot be rapidly changed.
 
-The activation period is not applied when bids of a collateral are below a certain threshold (**5M axlUSDC for aLuna**). This is so that new bids can be rapidly supplied to the system.
+The activation period is not applied when bids of a collateral are below a certain threshold (**50k axlUSDC for aLuna**). This is so that new bids can be rapidly supplied to the system.
 
 
 

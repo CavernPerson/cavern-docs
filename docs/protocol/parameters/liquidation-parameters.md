@@ -37,5 +37,5 @@ The `Max Premium Rate` is the maximum rate of premium that bidders can submit.&#
 | `Safe Ratio`                    | 80%                  | 0.8                           |
 | `Bid Fee`                       | 1%                   | 0.01                          |
 | `Max Premium Rate`              | 30%                  | 0.3                           |
-| `Partial Liquidation Threshold` | 500 UST              | 2000000000 (uusd)             |
+| `Partial Liquidation Threshold` | 2,000 UST            | 2000000000 (uusd)             |
 | `Valid Price Timeframe`         | 60 seconds           | 60                            |

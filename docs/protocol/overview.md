@@ -4,7 +4,7 @@
 
 Using LUNA staking yields and money markets, the Cavern Protocol composes a fully decentralized fixed income instrument.&#x20;
 
-1. **<strike>Governance</strike>** A centralized entity (for now) sets the “Cavern Rate”** … The “Cavern Rate” is the target APY anchor seeks to pay out to depositors.  CavernPerson doesn't believe the protocol is mature enough to let its parameters be controlled by governance. The rate is fixed and will be changed when needed.
+1. **<strike>Governance</strike>** A centralized entity (for now) sets the **“Cavern Rate”**. The “Cavern Rate” is the target APY Cavern seeks to pay out to depositors. Cavern Protocol doesn't believe the protocol is mature enough to let its parameters be controlled by governance. The rate is fixed and will be changed when needed.
 2. **Staking rewards make up the “real yield”** … underneath the hood, Cavern implements the classical money market, with the caveat that whitelisted collateral is reserved for liquid staking derivatives of major PoS protocols (I limited that to Luna for now). The collateral earns staking rewards, making up the real yield.&#x20;
 3. **The "real yield" is stabilized around the "Cavern Rate"**  … reserves and borrowing incentives help the real yield to converge to the Cavern Rate.&#x20;
    1. If real yield > Cavern Rate, the excess yield is stored in a UST denominated “yield reserve”. Staking incentives to borrowers drop by 15% every week.&#x20;
