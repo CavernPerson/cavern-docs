@@ -41,5 +41,6 @@ Cavern's deposit rate subsidies are funded by aAsset rewards. aAsset rewards sho
 ```{toctree}
 :hidden:
 bonded-luna-bluna
+bonded-lsd
 validator-whitelist
 ```
