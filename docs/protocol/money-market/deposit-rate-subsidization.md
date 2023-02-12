@@ -1,6 +1,6 @@
 # Deposit Rate Subsidization
 
-Cavern Protocol's deposit rate stability is supported by borrow demand from borrower ANC distribution and direct subsidization. Cavern defines a target deposit rate ($r_{target}$), and a threshold deposit rate ($r_{threshold}$) and constantly attempts to retain a deposit rate close to $r_{target}$ and always above $r_{threshold}$.
+Cavern Protocol's deposit rate stability is supported by borrow demand from borrower, borrower incentives and direct subsidization. Cavern defines a target deposit rate ($r_{target}$), and a threshold deposit rate ($r_{threshold}$) and constantly attempts to retain a deposit rate close to $r_{target}$ and always above $r_{threshold}$.
 
 Every epoch, the average deposit rate during the last epoch ($r_{current}$) is calculated and compared with the target and threshold rates. Appropriate measures are then made to readjust the deposit rate.
 

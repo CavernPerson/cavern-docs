@@ -32,6 +32,7 @@ Learn more about Cavern Protocol, its core smart contracts, and Javascript SDK.
 
 * [Telegram](https://t.me/cavernprotocolofficial)
 * [Twitter](https://twitter.com/CavernProtocol)
+* [Discord](https://discord.com/invite/Bzau2dW9fu)
 
 ```{toctree}
 :hidden:
