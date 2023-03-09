@@ -66,6 +66,7 @@ Learn more about Cavern Protocol, its core smart contracts, and Javascript SDK.
 /docs/smart-contracts/bluna/README
 /docs/smart-contracts/money-market/README
 /docs/smart-contracts/liquidations/README
+/docs/smart-contracts/lsd-wrapper/README
 ```
 
 ```{toctree}

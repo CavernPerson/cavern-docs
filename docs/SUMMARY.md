@@ -37,7 +37,8 @@
   * [Rewards Dispatcher](https://docs.terra.lido.fi/contracts/rewards\_dispatcher) -e
   * [Validators Registry](https://docs.terra.lido.fi/contracts/validators\_registry) -e
   * [Airdrop Registry](https://docs.terra.lido.fi/contracts/airdrop-registry) -e
-  * [Tokens: aLuna and stLuna](https://docs.terra.lido.fi/contracts/stLuna\_and\_bLuna) -e
+  * [Tokens: aLuna](https://docs.terra.lido.fi/contracts/stLuna\_and\_bLuna) -e
+* [LSDs as collateral](smart-contracts/lsd-wrapper/README.md) -e 
 * [Money Market](smart-contracts/money-market/README.md) -e
   * [Overseer](smart-contracts/money-market/overseer.md) -e
   * [Market](smart-contracts/money-market/market.md) -e
